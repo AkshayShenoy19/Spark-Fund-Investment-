@@ -25,17 +25,11 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
  
 
-2. Where did we get the data from? 
 
-We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 
  
 
-You have to use three main data tables for the entire analysis (available for download on the next page):
-
- 
-
-3. What is Spark Funds’ business objective?
+2. What is Spark Funds’ business objective?
 
 The business objectives and goals of data analysis are pretty straightforward.
 
@@ -46,10 +40,6 @@ Country analysis: Identifying the countries which have been the most heavily inv
 Sector analysis: Understanding the distribution of investments across the eight main sectors. (Note that we are interested in the eight 'main sectors' provided in the mapping file. The two files — companies and rounds2 — have numerous sub-sector names; hence, you will need to map each sub-sector to its main sector.)
  
 
-4. How do you approach the assignment? What are the deliverables?
-
-The entire assignment is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet provided in the download segment. The tables are also mentioned under the 'Results Expected' section after each checkpoint. Since this is the first assignment, you have been provided with some additional guidance. Going forward you will be expected to structure and solve the problem by yourself, just like you would be solving problems in real-life scenarios.
 
  
 
-Important Note: All your code has to be submitted in one Jupyter notebook. For every checkpoint, keep writing code in one well-commented Jupyter notebook which you can submit at the end.
